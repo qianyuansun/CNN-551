@@ -1,0 +1,4 @@
+data/*
+patches/*
+images/*
+cnn.best.weights - Copy.hdf5
